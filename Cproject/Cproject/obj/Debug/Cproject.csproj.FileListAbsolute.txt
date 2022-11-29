@@ -1,0 +1,68 @@
+C:\Users\dell\Desktop\test vusual\Cproject\Cproject\bin\Debug\Cproject.exe.config
+C:\Users\dell\Desktop\test vusual\Cproject\Cproject\bin\Debug\Cproject.exe
+C:\Users\dell\Desktop\test vusual\Cproject\Cproject\bin\Debug\Cproject.pdb
+C:\Users\dell\Desktop\test vusual\Cproject\Cproject\bin\Debug\EntityFramework.dll
+C:\Users\dell\Desktop\test vusual\Cproject\Cproject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dell\Desktop\test vusual\Cproject\Cproject\bin\Debug\EntityFramework.xml
+C:\Users\dell\Desktop\test vusual\Cproject\Cproject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dell\Desktop\test vusual\Cproject\Cproject\obj\Debug\Cproject.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\test vusual\Cproject\Cproject\obj\Debug\Cproject.csproj.SuggestedBindingRedirects.cache
+C:\Users\dell\Desktop\test vusual\Cproject\Cproject\obj\Debug\Cproject.Properties.Resources.resources
+C:\Users\dell\Desktop\test vusual\Cproject\Cproject\obj\Debug\Cproject.csproj.GenerateResource.cache
+C:\Users\dell\Desktop\test vusual\Cproject\Cproject\obj\Debug\Cproject.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\test vusual\Cproject\Cproject\obj\Debug\Cproject.csproj.CopyComplete
+C:\Users\dell\Desktop\test vusual\Cproject\Cproject\obj\Debug\Cproject.exe
+C:\Users\dell\Desktop\test vusual\Cproject\Cproject\obj\Debug\Cproject.pdb
+C:\Users\dell\Desktop\test vusual\Cproject\Cproject\obj\Debug\Cproject.Form1.resources
+C:\Users\dell\Desktop\test vusual\Cproject\Cproject\obj\Debug\Cproject.Exam.resources
+C:\Users\dell\Desktop\test vusual\Cproject\Cproject\obj\Debug\Cproject.QuestionForm.resources
+C:\Users\dell\Desktop\test vusual\Cproject\Cproject\obj\Debug\Cproject.AddStudent.resources
+C:\Users\dell\Desktop\test vusual\Cproject\Cproject\obj\Debug\Cproject.CreateNewExam.resources
+C:\Users\dell\Desktop\test vusual\Cproject\Cproject\obj\Debug\Cproject.degreeofstudent.resources
+C:\Users\dell\Desktop\test vusual\Cproject\Cproject\obj\Debug\Cproject.Migrations.init.resources
+C:\Users\ahmed\Downloads\Cproject\Cproject\bin\Debug\Cproject.exe.config
+C:\Users\ahmed\Downloads\Cproject\Cproject\bin\Debug\Cproject.exe
+C:\Users\ahmed\Downloads\Cproject\Cproject\bin\Debug\Cproject.pdb
+C:\Users\ahmed\Downloads\Cproject\Cproject\bin\Debug\EntityFramework.dll
+C:\Users\ahmed\Downloads\Cproject\Cproject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ahmed\Downloads\Cproject\Cproject\bin\Debug\EntityFramework.xml
+C:\Users\ahmed\Downloads\Cproject\Cproject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ahmed\Downloads\Cproject\Cproject\obj\Debug\Cproject.csproj.AssemblyReference.cache
+C:\Users\ahmed\Downloads\Cproject\Cproject\obj\Debug\Cproject.csproj.SuggestedBindingRedirects.cache
+C:\Users\ahmed\Downloads\Cproject\Cproject\obj\Debug\Cproject.AddStudent.resources
+C:\Users\ahmed\Downloads\Cproject\Cproject\obj\Debug\Cproject.CreateNewExam.resources
+C:\Users\ahmed\Downloads\Cproject\Cproject\obj\Debug\Cproject.degreeofstudent.resources
+C:\Users\ahmed\Downloads\Cproject\Cproject\obj\Debug\Cproject.Exam.resources
+C:\Users\ahmed\Downloads\Cproject\Cproject\obj\Debug\Cproject.Form1.resources
+C:\Users\ahmed\Downloads\Cproject\Cproject\obj\Debug\Cproject.Migrations.init.resources
+C:\Users\ahmed\Downloads\Cproject\Cproject\obj\Debug\Cproject.Properties.Resources.resources
+C:\Users\ahmed\Downloads\Cproject\Cproject\obj\Debug\Cproject.QuestionForm.resources
+C:\Users\ahmed\Downloads\Cproject\Cproject\obj\Debug\Cproject.csproj.GenerateResource.cache
+C:\Users\ahmed\Downloads\Cproject\Cproject\obj\Debug\Cproject.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\Downloads\Cproject\Cproject\obj\Debug\Cproject.csproj.CopyComplete
+C:\Users\ahmed\Downloads\Cproject\Cproject\obj\Debug\Cproject.exe
+C:\Users\ahmed\Downloads\Cproject\Cproject\obj\Debug\Cproject.pdb
+E:\New folder (2)\Cproject\Cproject\bin\Debug\Cproject.exe.config
+E:\New folder (2)\Cproject\Cproject\bin\Debug\Cproject.exe
+E:\New folder (2)\Cproject\Cproject\bin\Debug\Cproject.pdb
+E:\New folder (2)\Cproject\Cproject\bin\Debug\EntityFramework.dll
+E:\New folder (2)\Cproject\Cproject\bin\Debug\EntityFramework.SqlServer.dll
+E:\New folder (2)\Cproject\Cproject\bin\Debug\EntityFramework.xml
+E:\New folder (2)\Cproject\Cproject\bin\Debug\EntityFramework.SqlServer.xml
+E:\New folder (2)\Cproject\Cproject\obj\Debug\Cproject.csproj.AssemblyReference.cache
+E:\New folder (2)\Cproject\Cproject\obj\Debug\Cproject.csproj.SuggestedBindingRedirects.cache
+E:\New folder (2)\Cproject\Cproject\obj\Debug\Cproject.AssignStudent.resources
+E:\New folder (2)\Cproject\Cproject\obj\Debug\Cproject.AddStudent.resources
+E:\New folder (2)\Cproject\Cproject\obj\Debug\Cproject.CreateNewExam.resources
+E:\New folder (2)\Cproject\Cproject\obj\Debug\Cproject.degreeofstudent.resources
+E:\New folder (2)\Cproject\Cproject\obj\Debug\Cproject.Exam.resources
+E:\New folder (2)\Cproject\Cproject\obj\Debug\Cproject.Form1.resources
+E:\New folder (2)\Cproject\Cproject\obj\Debug\Cproject.Migrations.init.resources
+E:\New folder (2)\Cproject\Cproject\obj\Debug\Cproject.Properties.Resources.resources
+E:\New folder (2)\Cproject\Cproject\obj\Debug\Cproject.QuestionForm.resources
+E:\New folder (2)\Cproject\Cproject\obj\Debug\Cproject.csproj.GenerateResource.cache
+E:\New folder (2)\Cproject\Cproject\obj\Debug\Cproject.csproj.CoreCompileInputs.cache
+E:\New folder (2)\Cproject\Cproject\obj\Debug\Cproject.csproj.CopyComplete
+E:\New folder (2)\Cproject\Cproject\obj\Debug\Cproject.exe
+E:\New folder (2)\Cproject\Cproject\obj\Debug\Cproject.pdb
+E:\New folder (2)\Cproject\Cproject\obj\Debug\Cproject.AddInstructor.resources

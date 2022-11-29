@@ -1,0 +1,122 @@
+C:\Users\AGR\Documents\Visual Studio 2019\Project\Examination_System\bin\Debug\Examination_System.exe.config
+C:\Users\AGR\Documents\Visual Studio 2019\Project\Examination_System\bin\Debug\Examination_System.exe
+C:\Users\AGR\Documents\Visual Studio 2019\Project\Examination_System\bin\Debug\Examination_System.pdb
+C:\Users\AGR\Documents\Visual Studio 2019\Project\Examination_System\bin\Debug\EntityFramework.dll
+C:\Users\AGR\Documents\Visual Studio 2019\Project\Examination_System\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AGR\Documents\Visual Studio 2019\Project\Examination_System\bin\Debug\EntityFramework.xml
+C:\Users\AGR\Documents\Visual Studio 2019\Project\Examination_System\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AGR\Documents\Visual Studio 2019\Project\Examination_System\obj\Debug\Examination_System.csproj.AssemblyReference.cache
+C:\Users\AGR\Documents\Visual Studio 2019\Project\Examination_System\obj\Debug\Examination_System.csproj.SuggestedBindingRedirects.cache
+C:\Users\AGR\Documents\Visual Studio 2019\Project\Examination_System\obj\Debug\Examination_System.login.resources
+C:\Users\AGR\Documents\Visual Studio 2019\Project\Examination_System\obj\Debug\Examination_System.Migrations.init.resources
+C:\Users\AGR\Documents\Visual Studio 2019\Project\Examination_System\obj\Debug\Examination_System.Migrations.update.resources
+C:\Users\AGR\Documents\Visual Studio 2019\Project\Examination_System\obj\Debug\Examination_System.Properties.Resources.resources
+C:\Users\AGR\Documents\Visual Studio 2019\Project\Examination_System\obj\Debug\Examination_System.studient.std_main.resources
+C:\Users\AGR\Documents\Visual Studio 2019\Project\Examination_System\obj\Debug\Examination_System.courses.resources
+C:\Users\AGR\Documents\Visual Studio 2019\Project\Examination_System\obj\Debug\Examination_System.Ucontrols.Degress.resources
+C:\Users\AGR\Documents\Visual Studio 2019\Project\Examination_System\obj\Debug\Examination_System.csproj.GenerateResource.cache
+C:\Users\AGR\Documents\Visual Studio 2019\Project\Examination_System\obj\Debug\Examination_System.csproj.CoreCompileInputs.cache
+C:\Users\AGR\Documents\Visual Studio 2019\Project\Examination_System\obj\Debug\Examination_System.csproj.CopyComplete
+C:\Users\AGR\Documents\Visual Studio 2019\Project\Examination_System\obj\Debug\Examination_System.exe
+C:\Users\AGR\Documents\Visual Studio 2019\Project\Examination_System\obj\Debug\Examination_System.pdb
+C:\Users\AGR\Documents\Visual Studio 2019\Project\Examination_System\obj\Debug\Examination_System.studient.ExamFrm.resources
+C:\Users\ahmed\Downloads\Examination_System\obj\Debug\Examination_System.csproj.AssemblyReference.cache
+C:\Users\ahmed\Downloads\Examination_System\obj\Debug\Examination_System.csproj.SuggestedBindingRedirects.cache
+C:\Users\ahmed\Downloads\Examination_System\obj\Debug\Examination_System.login.resources
+C:\Users\ahmed\Downloads\Examination_System\obj\Debug\Examination_System.Migrations.init.resources
+C:\Users\ahmed\Downloads\Examination_System\obj\Debug\Examination_System.Migrations.update.resources
+C:\Users\ahmed\Downloads\Examination_System\obj\Debug\Examination_System.Properties.Resources.resources
+C:\Users\ahmed\Downloads\Examination_System\obj\Debug\Examination_System.studient.ExamFrm.resources
+C:\Users\ahmed\Downloads\Examination_System\obj\Debug\Examination_System.studient.std_main.resources
+C:\Users\ahmed\Downloads\Examination_System\obj\Debug\Examination_System.courses.resources
+C:\Users\ahmed\Downloads\Examination_System\obj\Debug\Examination_System.Ucontrols.Degress.resources
+C:\Users\ahmed\Downloads\Examination_System\obj\Debug\Examination_System.csproj.GenerateResource.cache
+C:\Users\ahmed\Downloads\Examination_System\obj\Debug\Examination_System.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\Downloads\Examination_System\obj\Debug\Examination_System.exe
+C:\Users\ahmed\Downloads\Examination_System\obj\Debug\Examination_System.pdb
+C:\Users\ahmed\Downloads\Examination_System\bin\Debug\Examination_System.exe.config
+C:\Users\ahmed\Downloads\Examination_System\bin\Debug\Examination_System.exe
+C:\Users\ahmed\Downloads\Examination_System\bin\Debug\Examination_System.pdb
+C:\Users\ahmed\Downloads\Examination_System\bin\Debug\Cproject.exe
+C:\Users\ahmed\Downloads\Examination_System\bin\Debug\EntityFramework.dll
+C:\Users\ahmed\Downloads\Examination_System\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ahmed\Downloads\Examination_System\bin\Debug\Cproject.pdb
+C:\Users\ahmed\Downloads\Examination_System\bin\Debug\Cproject.exe.config
+C:\Users\ahmed\Downloads\Examination_System\bin\Debug\EntityFramework.xml
+C:\Users\ahmed\Downloads\Examination_System\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ahmed\Downloads\Examination_System\obj\Debug\Examination_System.csproj.CopyComplete
+E:\New folder (2)\Examination_System\bin\Debug\Examination_System.exe.config
+E:\New folder (2)\Examination_System\bin\Debug\Examination_System.exe
+E:\New folder (2)\Examination_System\bin\Debug\Examination_System.pdb
+E:\New folder (2)\Examination_System\bin\Debug\Cproject.exe
+E:\New folder (2)\Examination_System\bin\Debug\EntityFramework.dll
+E:\New folder (2)\Examination_System\bin\Debug\EntityFramework.SqlServer.dll
+E:\New folder (2)\Examination_System\bin\Debug\Cproject.pdb
+E:\New folder (2)\Examination_System\bin\Debug\Cproject.exe.config
+E:\New folder (2)\Examination_System\bin\Debug\EntityFramework.xml
+E:\New folder (2)\Examination_System\bin\Debug\EntityFramework.SqlServer.xml
+E:\New folder (2)\Examination_System\obj\Debug\Examination_System.csproj.AssemblyReference.cache
+E:\New folder (2)\Examination_System\obj\Debug\Examination_System.csproj.SuggestedBindingRedirects.cache
+E:\New folder (2)\Examination_System\obj\Debug\Examination_System.login.resources
+E:\New folder (2)\Examination_System\obj\Debug\Examination_System.Migrations.init.resources
+E:\New folder (2)\Examination_System\obj\Debug\Examination_System.Migrations.update.resources
+E:\New folder (2)\Examination_System\obj\Debug\Examination_System.Properties.Resources.resources
+E:\New folder (2)\Examination_System\obj\Debug\Examination_System.studient.ExamFrm.resources
+E:\New folder (2)\Examination_System\obj\Debug\Examination_System.studient.std_main.resources
+E:\New folder (2)\Examination_System\obj\Debug\Examination_System.courses.resources
+E:\New folder (2)\Examination_System\obj\Debug\Examination_System.Ucontrols.Degress.resources
+E:\New folder (2)\Examination_System\obj\Debug\Examination_System.csproj.GenerateResource.cache
+E:\New folder (2)\Examination_System\obj\Debug\Examination_System.csproj.CoreCompileInputs.cache
+E:\New folder (2)\Examination_System\obj\Debug\Examination_System.csproj.CopyComplete
+E:\New folder (2)\Examination_System\obj\Debug\Examination_System.exe
+E:\New folder (2)\Examination_System\obj\Debug\Examination_System.pdb
+C:\Users\dell\Desktop\New folder (2)\Examination_System\bin\Debug\Examination_System.exe.config
+C:\Users\dell\Desktop\New folder (2)\Examination_System\bin\Debug\Examination_System.exe
+C:\Users\dell\Desktop\New folder (2)\Examination_System\bin\Debug\Examination_System.pdb
+C:\Users\dell\Desktop\New folder (2)\Examination_System\bin\Debug\Cproject.exe
+C:\Users\dell\Desktop\New folder (2)\Examination_System\bin\Debug\EntityFramework.dll
+C:\Users\dell\Desktop\New folder (2)\Examination_System\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dell\Desktop\New folder (2)\Examination_System\bin\Debug\Cproject.pdb
+C:\Users\dell\Desktop\New folder (2)\Examination_System\bin\Debug\Cproject.exe.config
+C:\Users\dell\Desktop\New folder (2)\Examination_System\bin\Debug\EntityFramework.xml
+C:\Users\dell\Desktop\New folder (2)\Examination_System\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dell\Desktop\New folder (2)\Examination_System\obj\Debug\Examination_System.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\New folder (2)\Examination_System\obj\Debug\Examination_System.csproj.SuggestedBindingRedirects.cache
+C:\Users\dell\Desktop\New folder (2)\Examination_System\obj\Debug\Examination_System.login.resources
+C:\Users\dell\Desktop\New folder (2)\Examination_System\obj\Debug\Examination_System.Migrations.init.resources
+C:\Users\dell\Desktop\New folder (2)\Examination_System\obj\Debug\Examination_System.Migrations.update.resources
+C:\Users\dell\Desktop\New folder (2)\Examination_System\obj\Debug\Examination_System.Properties.Resources.resources
+C:\Users\dell\Desktop\New folder (2)\Examination_System\obj\Debug\Examination_System.studient.ExamFrm.resources
+C:\Users\dell\Desktop\New folder (2)\Examination_System\obj\Debug\Examination_System.studient.std_main.resources
+C:\Users\dell\Desktop\New folder (2)\Examination_System\obj\Debug\Examination_System.courses.resources
+C:\Users\dell\Desktop\New folder (2)\Examination_System\obj\Debug\Examination_System.Ucontrols.Degress.resources
+C:\Users\dell\Desktop\New folder (2)\Examination_System\obj\Debug\Examination_System.csproj.GenerateResource.cache
+C:\Users\dell\Desktop\New folder (2)\Examination_System\obj\Debug\Examination_System.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\New folder (2)\Examination_System\obj\Debug\Examination_System.csproj.CopyComplete
+C:\Users\dell\Desktop\New folder (2)\Examination_System\obj\Debug\Examination_System.exe
+C:\Users\dell\Desktop\New folder (2)\Examination_System\obj\Debug\Examination_System.pdb
+E:\ITI\3-Months\Tasks\C#\Examination System C# (Desktio App)\Examination_System\bin\Debug\Examination_System.exe.config
+E:\ITI\3-Months\Tasks\C#\Examination System C# (Desktio App)\Examination_System\bin\Debug\Examination_System.exe
+E:\ITI\3-Months\Tasks\C#\Examination System C# (Desktio App)\Examination_System\bin\Debug\Examination_System.pdb
+E:\ITI\3-Months\Tasks\C#\Examination System C# (Desktio App)\Examination_System\bin\Debug\Cproject.exe
+E:\ITI\3-Months\Tasks\C#\Examination System C# (Desktio App)\Examination_System\bin\Debug\EntityFramework.dll
+E:\ITI\3-Months\Tasks\C#\Examination System C# (Desktio App)\Examination_System\bin\Debug\EntityFramework.SqlServer.dll
+E:\ITI\3-Months\Tasks\C#\Examination System C# (Desktio App)\Examination_System\bin\Debug\Cproject.pdb
+E:\ITI\3-Months\Tasks\C#\Examination System C# (Desktio App)\Examination_System\bin\Debug\Cproject.exe.config
+E:\ITI\3-Months\Tasks\C#\Examination System C# (Desktio App)\Examination_System\bin\Debug\EntityFramework.xml
+E:\ITI\3-Months\Tasks\C#\Examination System C# (Desktio App)\Examination_System\bin\Debug\EntityFramework.SqlServer.xml
+E:\ITI\3-Months\Tasks\C#\Examination System C# (Desktio App)\Examination_System\obj\Debug\Examination_System.csproj.AssemblyReference.cache
+E:\ITI\3-Months\Tasks\C#\Examination System C# (Desktio App)\Examination_System\obj\Debug\Examination_System.csproj.SuggestedBindingRedirects.cache
+E:\ITI\3-Months\Tasks\C#\Examination System C# (Desktio App)\Examination_System\obj\Debug\Examination_System.login.resources
+E:\ITI\3-Months\Tasks\C#\Examination System C# (Desktio App)\Examination_System\obj\Debug\Examination_System.Migrations.init.resources
+E:\ITI\3-Months\Tasks\C#\Examination System C# (Desktio App)\Examination_System\obj\Debug\Examination_System.Migrations.update.resources
+E:\ITI\3-Months\Tasks\C#\Examination System C# (Desktio App)\Examination_System\obj\Debug\Examination_System.Properties.Resources.resources
+E:\ITI\3-Months\Tasks\C#\Examination System C# (Desktio App)\Examination_System\obj\Debug\Examination_System.studient.ExamFrm.resources
+E:\ITI\3-Months\Tasks\C#\Examination System C# (Desktio App)\Examination_System\obj\Debug\Examination_System.studient.std_main.resources
+E:\ITI\3-Months\Tasks\C#\Examination System C# (Desktio App)\Examination_System\obj\Debug\Examination_System.courses.resources
+E:\ITI\3-Months\Tasks\C#\Examination System C# (Desktio App)\Examination_System\obj\Debug\Examination_System.Ucontrols.Degress.resources
+E:\ITI\3-Months\Tasks\C#\Examination System C# (Desktio App)\Examination_System\obj\Debug\Examination_System.csproj.GenerateResource.cache
+E:\ITI\3-Months\Tasks\C#\Examination System C# (Desktio App)\Examination_System\obj\Debug\Examination_System.csproj.CoreCompileInputs.cache
+E:\ITI\3-Months\Tasks\C#\Examination System C# (Desktio App)\Examination_System\obj\Debug\Examination_System.csproj.CopyComplete
+E:\ITI\3-Months\Tasks\C#\Examination System C# (Desktio App)\Examination_System\obj\Debug\Examination_System.exe
+E:\ITI\3-Months\Tasks\C#\Examination System C# (Desktio App)\Examination_System\obj\Debug\Examination_System.pdb

@@ -1,0 +1,42 @@
+D:\ITI\projects\WindosForms\Design Of Crud Operations\bin\Debug\Design Of Crud Operations.exe.config
+D:\ITI\projects\WindosForms\Design Of Crud Operations\bin\Debug\Design Of Crud Operations.exe
+D:\ITI\projects\WindosForms\Design Of Crud Operations\bin\Debug\Design Of Crud Operations.pdb
+D:\ITI\projects\WindosForms\Design Of Crud Operations\obj\Debug\Design Of Crud Operations.csproj.AssemblyReference.cache
+D:\ITI\projects\WindosForms\Design Of Crud Operations\obj\Debug\Design Of Crud Operations.csproj.SuggestedBindingRedirects.cache
+D:\ITI\projects\WindosForms\Design Of Crud Operations\obj\Debug\Design_Of_Crud_Operations.Form1.resources
+D:\ITI\projects\WindosForms\Design Of Crud Operations\obj\Debug\Design_Of_Crud_Operations.Properties.Resources.resources
+D:\ITI\projects\WindosForms\Design Of Crud Operations\obj\Debug\Design Of Crud Operations.csproj.GenerateResource.cache
+D:\ITI\projects\WindosForms\Design Of Crud Operations\obj\Debug\Design Of Crud Operations.csproj.CoreCompileInputs.cache
+D:\ITI\projects\WindosForms\Design Of Crud Operations\obj\Debug\Design Of Crud Operations.exe
+D:\ITI\projects\WindosForms\Design Of Crud Operations\obj\Debug\Design Of Crud Operations.pdb
+D:\ITI\projects\WindosForms\Design Of Crud Operations\obj\Debug\Design_Of_Crud_Operations.Course_UserControl.resources
+D:\ITI\projects\WindosForms\Design Of Crud Operations\obj\Debug\Design_Of_Crud_Operations.Instractor_UserControl.resources
+D:\ITI\projects\WindosForms\Design Of Crud Operations\obj\Debug\Design_Of_Crud_Operations.Student_UserControl.resources
+C:\Users\ahmed\Downloads\WindosForms - Copy\Design Of Crud Operations\bin\Debug\Design Of Crud Operations.exe.config
+C:\Users\ahmed\Downloads\WindosForms - Copy\Design Of Crud Operations\bin\Debug\Design Of Crud Operations.exe
+C:\Users\ahmed\Downloads\WindosForms - Copy\Design Of Crud Operations\bin\Debug\Design Of Crud Operations.pdb
+C:\Users\ahmed\Downloads\WindosForms - Copy\Design Of Crud Operations\obj\Debug\Design Of Crud Operations.csproj.AssemblyReference.cache
+C:\Users\ahmed\Downloads\WindosForms - Copy\Design Of Crud Operations\obj\Debug\Design Of Crud Operations.csproj.SuggestedBindingRedirects.cache
+C:\Users\ahmed\Downloads\WindosForms - Copy\Design Of Crud Operations\obj\Debug\Design_Of_Crud_Operations.Course_UserControl.resources
+C:\Users\ahmed\Downloads\WindosForms - Copy\Design Of Crud Operations\obj\Debug\Design_Of_Crud_Operations.Form1.resources
+C:\Users\ahmed\Downloads\WindosForms - Copy\Design Of Crud Operations\obj\Debug\Design_Of_Crud_Operations.Instractor_UserControl.resources
+C:\Users\ahmed\Downloads\WindosForms - Copy\Design Of Crud Operations\obj\Debug\Design_Of_Crud_Operations.Properties.Resources.resources
+C:\Users\ahmed\Downloads\WindosForms - Copy\Design Of Crud Operations\obj\Debug\Design_Of_Crud_Operations.Student_UserControl.resources
+C:\Users\ahmed\Downloads\WindosForms - Copy\Design Of Crud Operations\obj\Debug\Design Of Crud Operations.csproj.GenerateResource.cache
+C:\Users\ahmed\Downloads\WindosForms - Copy\Design Of Crud Operations\obj\Debug\Design Of Crud Operations.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\Downloads\WindosForms - Copy\Design Of Crud Operations\obj\Debug\Design Of Crud Operations.exe
+C:\Users\ahmed\Downloads\WindosForms - Copy\Design Of Crud Operations\obj\Debug\Design Of Crud Operations.pdb
+E:\New folder (2)\WindosForms - Copy\Design Of Crud Operations\bin\Debug\Design Of Crud Operations.exe.config
+E:\New folder (2)\WindosForms - Copy\Design Of Crud Operations\bin\Debug\Design Of Crud Operations.exe
+E:\New folder (2)\WindosForms - Copy\Design Of Crud Operations\bin\Debug\Design Of Crud Operations.pdb
+E:\New folder (2)\WindosForms - Copy\Design Of Crud Operations\obj\Debug\Design Of Crud Operations.csproj.AssemblyReference.cache
+E:\New folder (2)\WindosForms - Copy\Design Of Crud Operations\obj\Debug\Design Of Crud Operations.csproj.SuggestedBindingRedirects.cache
+E:\New folder (2)\WindosForms - Copy\Design Of Crud Operations\obj\Debug\Design_Of_Crud_Operations.Course_UserControl.resources
+E:\New folder (2)\WindosForms - Copy\Design Of Crud Operations\obj\Debug\Design_Of_Crud_Operations.Form1.resources
+E:\New folder (2)\WindosForms - Copy\Design Of Crud Operations\obj\Debug\Design_Of_Crud_Operations.Instractor_UserControl.resources
+E:\New folder (2)\WindosForms - Copy\Design Of Crud Operations\obj\Debug\Design_Of_Crud_Operations.Properties.Resources.resources
+E:\New folder (2)\WindosForms - Copy\Design Of Crud Operations\obj\Debug\Design_Of_Crud_Operations.Student_UserControl.resources
+E:\New folder (2)\WindosForms - Copy\Design Of Crud Operations\obj\Debug\Design Of Crud Operations.csproj.GenerateResource.cache
+E:\New folder (2)\WindosForms - Copy\Design Of Crud Operations\obj\Debug\Design Of Crud Operations.csproj.CoreCompileInputs.cache
+E:\New folder (2)\WindosForms - Copy\Design Of Crud Operations\obj\Debug\Design Of Crud Operations.exe
+E:\New folder (2)\WindosForms - Copy\Design Of Crud Operations\obj\Debug\Design Of Crud Operations.pdb
